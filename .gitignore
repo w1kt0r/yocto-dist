@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 build
+build_*
+downloads
+sstate-cache
+
