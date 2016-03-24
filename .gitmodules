@@ -34,3 +34,7 @@
 	path = layers/3pp/meta-ros
 	url = git://github.com/bmwcarit/meta-ros.git
 	branch = master
+[submodule "layers/3pp/meta-xilinx"]
+	path = layers/3pp/meta-xilinx
+	url = git://github.com/Xilinx/meta-xilinx.git
+	branch = jethro

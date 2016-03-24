@@ -1,6 +1,7 @@
-PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
 SHELL=/bin/bash
-BOARD ?= odroidc2
+#BOARD ?= odroidc2
+#BOARD ?= raspberrypi2
+BOARD ?= qemu
 
 .PHONY: sourceme
 sourceme:
